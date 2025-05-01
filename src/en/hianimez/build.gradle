@@ -1,0 +1,14 @@
+plugins {
+    id 'com.android.application'
+    id 'kotlin-android'
+}
+
+ext {
+    extName = 'HiAnimeZ'
+    pkgNameSuffix = 'en.hianimez'
+    extClass = '.HiAnimeZ'
+    extVersionCode = 1
+    libVersion = '1.4'
+}
+
+apply from: "$rootDir/common.gradle"
