@@ -1,5 +1,15 @@
 {
   "name": "HiAnimeZ Extension Repository",
   "website": "https://github.com/DrAnimo0/animo",
-  "extensions": []
+  "extensions": [
+    {
+      "name": "HiAnimeZ",
+      "pkg": "eu.kanade.tachiyomi.animeextension.en.hianimez",
+      "apk": "https://github.com/yourusername/aniyomi-hianimez/releases/download/v1.0.0/hianimez-v1.0.0.apk",
+      "lang": "en",
+      "code": 1,
+      "version": "1.0.0",
+      "nsfw": 0
+    }
+  ]
 }
